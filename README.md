@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AbdoAlmaz2000
 - 👀 I’m interested in ...flluter and android     
 - 🌱 I’m currently learning ...flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on my own application
+- 📫 How to reach me ...facebook Almaz magdy
 
 <!---
 AbdoAlmaz2000/AbdoAlmaz2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
